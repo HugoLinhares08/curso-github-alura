@@ -9,7 +9,7 @@ node app.js
 ```
 
 
--> Comandos GIT:
+>  Comandos GIT:
 ```
 - cd (local desejado)
 - git clone (link do projeto)
@@ -19,5 +19,16 @@ node app.js
 
 -> Realizar pull (puxar tudo da branch atual):
 ```
-- git pull (link do projeto)
+- git pull (link do projeto), caso já esteja na branch, não é necessário o link.
+```
+
+-> Visualizar situação do projeto:
+```
+- git status
+```
+
+-> Commit do projeto:
+```
+- git commit -m "(mensagem)"
+- git push origin (empurrar as alterações para o arquivo de origem)
 ```
