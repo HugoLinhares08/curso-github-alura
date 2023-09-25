@@ -19,5 +19,5 @@ node app.js
 
 -> Realizar pull (puxar tudo da branch atual):
 ```
-- git pull (lindo do projeto)
+- git pull (link do projeto)
 ```
