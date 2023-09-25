@@ -29,6 +29,6 @@ node app.js
 
 -> Commit do projeto:
 ```
-- git commit -m "(mensagem)"
+- git commit -a (para commitar as alterações de todos os arquivos) -m "(mensagem)"
 - git push origin (empurrar as alterações para o arquivo de origem)
 ```
